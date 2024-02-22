@@ -3,21 +3,24 @@ Todo App;A distraction-free web app to help you focus on creating and completing
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/Scaliariy/python-portfolio;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/Scaliariy/pdf-template;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/Scaliariy/pdf-invoice;4.png
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://github.com/Scaliariy/news-by-email;5.png
+Automatic Newsletter;A news API + Pythonanywhere.;https://github.com/Scaliariy/news-by-email;5.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/Scaliariy/weather-api;6.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
-Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
+Web Scraper;A program that checks some website and sends an email with info.;https://github.com/Scaliariy/web-scraping;8.png
+Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://github.com/Scaliariy/simple-chatbot;9.png
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;10.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;11.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/Scaliariy/webcam-app;11.png
 Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://pythonhow.com;12.png
 Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;13.png
 Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;14.png
 Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;16.png
-Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;17.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/Scaliariy/weather-forecast;16.png
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/Scaliariy/student-management-system;17.png
 School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
-Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/Scaliariy/django-restaurant-menu;19.png
 Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
-Weather Forecast;;https://github.com/Scaliariy/weather-forecast;
-Book Analysis;;https://github.com/Scaliariy/text-analysis;
+Book Analysis;Description;https://github.com/Scaliariy/text-analysis;21.png
+OOP Hotel Booking;Description;https://github.com/Scaliariy/oop-hotel-booking;python.png
+Django Form;Description;https://github.com/Scaliariy/django-form;python.png
+Flask Form;Description;https://github.com/Scaliariy/flask-form;python.png
+Movie Recommendation System;Description;https://deepnote.com/workspace/moonorbit-4f645c71-d42a-479d-8ae1-7b7dd8b8fd99/project/Movie-Recomendation-System-b6e22159-386c-4d83-b04a-da501d9152ae/notebook/Notebook%201-5713bf77120a4c7f9a38a6e29c3578a8;python.png
